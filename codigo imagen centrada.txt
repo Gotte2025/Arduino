@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head >
+
+<meta charset=UTF-8>
+
+<title text-align: justify >Mi Página Web</title>
+
+</head>
+
+<body style=background-color: blue;>
+
+<h1>Bienvenido a mi página</h1>
+
+<div class="centrar-imagen">
+
+<img src="[lluvia.jfif]lluvia.jfif" alt="Descripción de la imagen">
+
+</div>
+
+<style>
+
+.centrar-imagen {
+
+text-align: center;
+
+}
+
+</style>
+
+<p>Este es un ejemplo de texto en un párrafo.</p>
+
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+# Archivos binarios y compilados
+*.o
+*.elf
+*.hex
+*.eep
+*.bin
+
+# Archivos del sistema
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Carpetas de cache
+.cache/
+__pycache__/
+
+# Archivos temporales
+*.tmp
+*.temp
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Documentos que no queremos versionar
+*.pdf
+*.zip
+*.apk
+*.aab
+
+# Configuraciones locales
+config_local.h
+secrets.h
+WiFi_credentials.txt

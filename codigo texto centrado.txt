@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head >
+
+    <meta charset=UTF-8>
+
+    <title text-align: justify >Mi Página Web</title>
+
+</head>
+
+<body style=background-color: blue;>
+
+    <h1>Bienvenido a mi página</h1>
+
+ 
+
+ 
+
+<div class="centrar-imagen">
+
+      <img src="lluvia.jfif" alt="Descripción de la imagen">
+
+    </div>
+
+ 
+
+    <style>
+
+      .centrar-imagen {
+
+        text-align: center;
+
+      }
+
+    </style>
+
+<div class="contenedor-flex">
+
+  <p>Este texto está centrado.</p>
+
+</div>
+
+<style>
+
+.contenedor-flex {
+
+  display: flex;
+
+  justify-content: center; /* Centra horizontalmente */
+
+  align-items: Right; /* Centra verticalmente */
+
+  height: 500px; /* Ajusta la altura del contenedor si es necesario */
+
+<style>
+
+}
+
+ 
+
+   
+
+</body>
+
+</html>
