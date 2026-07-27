@@ -1,2 +1,0 @@
-#define AP_SSID "Wi-Fi Sanchez_5G"
-#define AP_PASS "diabolicos"
