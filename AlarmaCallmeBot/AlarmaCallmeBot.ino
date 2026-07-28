@@ -13,8 +13,8 @@
 #include <ESP8266WiFi.h>
 #include <Callmebot_ESP8266.h>
 
-const char* ssid = "Wi-Fi Sanchez_5G";
-const char* password = "diabolicos";
+const char* ssid = "xxxxxxxxxxx";
+const char* password = "xxxxxxxxxx";
 // Note :
 // phoneNumber : Indonesia +62, Example: "+62897461238"
 // apiKey : Follow instruction on https://www.callmebot.com/blog/free-api-whatsapp-messages/
