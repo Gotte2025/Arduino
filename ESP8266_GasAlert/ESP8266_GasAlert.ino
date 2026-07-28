@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
-const char* ssid = "Valentina Cardonnet 2.4 Ghz";
-const char* password = "01430291861";
+const char* ssid = "xxxxxxxxxxxxxxxx";
+const char* password = "xxxxxxxxxxxxxxx";
 const char* serverUrl = "https://us-central1-gasalert.cloudfunctions.net/sendAlert"; // Se genera al subir a Firebase
 
 int mq7_pin = A0;
