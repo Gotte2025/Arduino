@@ -2,10 +2,10 @@
 #include <ESP8266WiFi.h>
 #include <Callmebot_ESP8266.h>
 
-const char* ssid = "CuadrosGonzales";
-const char* password = "PobreMorocho";
+const char* ssid = "xxxxxxxxxxxx";
+const char* password = "xxxxxxxxxxxxxx";
 
-String phoneNumber = "+5493534064493";
+String phoneNumber = "+54xxxxxxxxxx";
 String apiKey = "7793291";
 #include <MQ2.h>
 
